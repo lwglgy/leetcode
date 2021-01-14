@@ -16,5 +16,6 @@ public class Offer11 {
                 i = (i+1+right)/2;
             }
         }
+        return 0;
     }
 }
